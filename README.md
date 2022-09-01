@@ -7,7 +7,7 @@ This is the molecular python script for blender, originally coded py Pyroevil. I
 
 To download the latest version go to the release section of this repository.
 
-The script can be installed like any other addons in Blender:
+The script can be installed like any other addons in Blender: e
 First way:
 - unzip the folder "molecular" in your "x.xx\scripts\addons" blender directory
 
